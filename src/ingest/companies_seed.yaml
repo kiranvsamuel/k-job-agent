@@ -1,0 +1,1712 @@
+# Y Combinator Companies (2022-2025) with US Jobs
+# Usage: python -m src.ingest.run_ingest
+# Last Updated: 2025-08-17
+
+companies:
+### Greenhouse ATS Companies (Public Job Boards)
+  - name: "1Password"
+    website: "https://1password.com/jobs"
+    ats_type: "greenhouse"
+    ats_slug: "1password"
+
+  - name: "Abnormal Security"
+    website: "https://abnormalsecurity.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "abnormalsecurity"
+
+  - name: "Adept AI"
+    website: "https://www.adept.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "adeptai"
+
+  - name: "Adalo"
+    website: "https://www.adalo.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "adalo"
+
+  - name: "Adyen"
+    website: "https://www.adyen.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "adyen"
+
+  - name: "Affirm"
+    website: "https://www.affirm.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "affirm"
+
+  - name: "AI21 Labs"
+    website: "https://www.ai21.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ai21labs"
+
+  - name: "Airbnb"
+    website: "https://careers.airbnb.com/"
+    ats_type: "greenhouse"
+    ats_slug: "airbnb"
+
+  - name: "Airbyte"
+    website: "https://airbyte.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "airbyte"
+
+  - name: "Airtable"
+    website: "https://airtable.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "airtable"
+
+  - name: "Akamai"
+    website: "https://www.akamai.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "akamai"
+
+  - name: "Algolia"
+    website: "https://www.algolia.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "algolia"
+
+  - name: "Amplitude"
+    website: "https://amplitude.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "amplitude"
+
+  - name: "AngelList"
+    website: "https://angellist.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "angellist"
+
+  - name: "Anthropic"
+    website: "https://www.anthropic.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "anthropic"
+
+  - name: "Anrok"
+    website: "https://anrok.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "anrok"
+
+  - name: "Anysphere"
+    website: "https://www.anysphere.co/careers"
+    ats_type: "greenhouse"
+    ats_slug: "anysphere"
+
+  - name: "Apollo GraphQL"
+    website: "https://www.apollographql.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "apollographql"
+
+  - name: "Apple"
+    website: "https://www.apple.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "apple"
+
+  - name: "Applied Intuition"
+    website: "https://appliedintuition.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "appliedintuition"
+
+  - name: "Articulate"
+    website: "https://articulate.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "articulate"
+
+  - name: "Asana"
+    website: "https://asana.com/jobs"
+    ats_type: "greenhouse"
+    ats_slug: "asana"
+
+  - name: "Ashby"
+    website: "https://www.ashbyhq.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ashby"
+
+  - name: "AssemblyAI"
+    website: "https://www.assemblyai.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "assemblyai"
+
+  - name: "Attio"
+    website: "https://attio.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "attio"
+
+  - name: "Aurora"
+    website: "https://aurora.tech/careers"
+    ats_type: "greenhouse"
+    ats_slug: "aurora"
+
+  - name: "Automation Anywhere"
+    website: "https://www.automationanywhere.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "automationanywhere"
+
+  - name: "Axon"
+    website: "https://axon.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "axon"
+
+  - name: "Backblaze"
+    website: "https://www.backblaze.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "backblaze"
+
+  - name: "Basetool"
+    website: "https://basetool.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "basetool"
+
+  - name: "Beehiiv"
+    website: "https://beehiiv.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "beehiiv"
+
+  - name: "Bento"
+    website: "https://bento.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "bento"
+
+  - name: "BerriAI"
+    website: "https://berri.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "berriai"
+
+  - name: "Blink"
+    website: "https://blink.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "blink"
+
+  - name: "Bloomberg"
+    website: "https://www.bloomberg.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "bloomberg"
+
+  - name: "Bookface"
+    website: "https://bookface.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "bookface"
+
+  - name: "Braintrust"
+    website: "https://braintrust.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "braintrust"
+
+  - name: "Brex"
+    website: "https://www.brex.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "brex"
+
+  - name: "Bubble"
+    website: "https://bubble.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "bubble"
+
+  - name: "Bunny.net"
+    website: "https://bunny.net/careers"
+    ats_type: "greenhouse"
+    ats_slug: "bunnynet"
+
+  - name: "Bytescale"
+    website: "https://www.bytescale.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "bytescale"
+
+  - name: "Calendly"
+    website: "https://calendly.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "calendly"
+
+  - name: "Canva"
+    website: "https://www.canva.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "canva"
+
+  - name: "Capsule"
+    website: "https://capsule.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "capsule"
+
+  - name: "Carta"
+    website: "https://carta.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "carta"
+
+  - name: "Character AI"
+    website: "https://character.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "characterai"
+
+  - name: "Checkout.com"
+    website: "https://www.checkout.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "checkoutcom"
+
+  - name: "Chime"
+    website: "https://www.chime.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "chime"
+
+  - name: "Chipper Cash"
+    website: "https://chippercash.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "chippercash"
+
+  - name: "Chroma"
+    website: "https://www.trychroma.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "chroma"
+
+  - name: "Clerk"
+    website: "https://clerk.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "clerk"
+
+  - name: "Clerky"
+    website: "https://clerky.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "clerky"
+
+  - name: "Cloaked"
+    website: "https://cloaked.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cloaked"
+
+  - name: "Cloudflare"
+    website: "https://www.cloudflare.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cloudflare"
+
+  - name: "Cloudinary"
+    website: "https://cloudinary.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cloudinary"
+
+  - name: "Clubhouse"
+    website: "https://www.clubhouse.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "clubhouse"
+
+  - name: "Cockroach Labs"
+    website: "https://www.cockroachlabs.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cockroachlabs"
+
+  - name: "Codeium"
+    website: "https://codeium.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "codeium"
+
+  - name: "Coda"
+    website: "https://coda.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "coda"
+
+  - name: "Coinbase"
+    website: "https://www.coinbase.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "coinbase"
+
+  - name: "Cohere"
+    website: "https://cohere.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cohere"
+
+  - name: "Cognition AI"
+    website: "https://www.cognition.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cognitionai"
+
+  - name: "Coral"
+    website: "https://coral.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "coral"
+
+  - name: "Contra"
+    website: "https://contra.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "contra"
+
+  - name: "Convex"
+    website: "https://www.convex.dev/careers"
+    ats_type: "greenhouse"
+    ats_slug: "convex"
+
+  - name: "Copy.ai"
+    website: "https://www.copy.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "copyai"
+
+  - name: "Covalent"
+    website: "https://covalent.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "covalent"
+
+  - name: "Crusoe"
+    website: "https://crusoeenergy.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "crusoe"
+
+  - name: "Culture Amp"
+    website: "https://www.cultureamp.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cultureamp"
+
+  - name: "Cursive"
+    website: "https://cursive.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "cursive"
+
+  - name: "Dbt Labs"
+    website: "https://www.getdbt.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "dbtlabs"
+
+  - name: "Deel"
+    website: "https://www.deel.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "deel"
+
+  - name: "Deepgram"
+    website: "https://deepgram.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "deepgram"
+
+  - name: "Deepnote"
+    website: "https://deepnote.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "deepnote"
+
+  - name: "Descript"
+    website: "https://www.descript.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "descript"
+
+  - name: "DigitalOcean"
+    website: "https://www.digitalocean.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "digitalocean"
+
+  - name: "Discord"
+    website: "https://discord.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "discord"
+
+  - name: "Doordash"
+    website: "https://www.doordash.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "doordash"
+
+  - name: "Draftbit"
+    website: "https://draftbit.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "draftbit"
+
+  - name: "Dropbox"
+    website: "https://www.dropbox.com/jobs"
+    ats_type: "greenhouse"
+    ats_slug: "dropbox"
+
+  - name: "Duolingo"
+    website: "https://www.duolingo.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "duolingo"
+
+  - name: "Duffel"
+    website: "https://duffel.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "duffel"
+
+  - name: "Eden"
+    website: "https://eden.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "eden"
+
+  - name: "EdgeDB"
+    website: "https://edgedb.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "edgedb"
+
+  - name: "ElevenLabs"
+    website: "https://elevenlabs.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "elevenlabs"
+
+  - name: "Ema"
+    website: "https://ema.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ema"
+
+  - name: "Electron"
+    website: "https://electron.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "electron"
+
+  - name: "Elementl"
+    website: "https://elementl.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "elementl"
+
+  - name: "Equinix Metal"
+    website: "https://metal.equinix.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "equinixmetal"
+
+  - name: "Faire"
+    website: "https://faire.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "faire"
+
+  - name: "Fastly"
+    website: "https://www.fastly.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "fastly"
+
+  - name: "Fiber AI"
+    website: "https://fiber.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "fiberai"
+
+  - name: "Figma"
+    website: "https://www.figma.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "figma"
+
+  - name: "Filestack"
+    website: "https://www.filestack.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "filestack"
+
+  - name: "Fleet"
+    website: "https://fleet.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "fleet"
+
+  - name: "Flex"
+    website: "https://flex.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "flex"
+
+  - name: "Flexport"
+    website: "https://www.flexport.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "flexport"
+
+  - name: "FlutterFlow"
+    website: "https://flutterflow.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "flutterflow"
+
+  - name: "Fly.io"
+    website: "https://fly.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "flyio"
+
+  - name: "Fonoster"
+    website: "https://fonoster.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "fonoster"
+
+  - name: "Forethought"
+    website: "https://forethought.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "forethought"
+
+  - name: "Formbricks"
+    website: "https://formbricks.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "formbricks"
+
+  - name: "Gatsby"
+    website: "https://gatsbyjs.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "gatsby"
+
+  - name: "Gem"
+    website: "https://www.gem.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "gem"
+
+  - name: "Gcore"
+    website: "https://gcore.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "gcore"
+
+  - name: "Glean"
+    website: "https://glean.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "glean"
+
+  - name: "Glide"
+    website: "https://www.glideapps.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "glide"
+
+  - name: "Grafana Labs"
+    website: "https://grafana.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "grafanalabs"
+
+  - name: "Grain"
+    website: "https://grain.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "grain"
+
+  - name: "Gretel AI"
+    website: "https://gretel.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "gretelai"
+
+  - name: "Grit"
+    website: "https://grit.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "grit"
+
+  - name: "Gusto"
+    website: "https://gusto.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "gusto"
+
+  - name: "Hack Club"
+    website: "https://hackclub.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hackclub"
+
+  - name: "Harness"
+    website: "https://harness.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "harness"
+
+  - name: "Hasura"
+    website: "https://hasura.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hasura"
+
+  - name: "HashiCorp"
+    website: "https://www.hashicorp.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hashicorp"
+
+  - name: "Haystack"
+    website: "https://haystack.deepset.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "haystack"
+
+  - name: "HelloFresh"
+    website: "https://www.hellofresh.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hellofresh"
+
+  - name: "Hera"
+    website: "https://hera.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hera"
+
+  - name: "Hetzner"
+    website: "https://www.hetzner.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hetzner"
+
+  - name: "Hex Technologies"
+    website: "https://hex.tech/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hex"
+
+  - name: "Hightouch"
+    website: "https://hightouch.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hightouch"
+
+  - name: "Hippocratic AI"
+    website: "https://hippocraticai.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hippocraticai"
+
+  - name: "Hopin"
+    website: "https://hopin.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hopin"
+
+  - name: "Hosted"
+    website: "https://hosted.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hosted"
+
+  - name: "HubSpot"
+    website: "https://www.hubspot.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "hubspot"
+
+  - name: "Hugging Face"
+    website: "https://huggingface.co/careers"
+    ats_type: "greenhouse"
+    ats_slug: "huggingface"
+
+  - name: "Humaans"
+    website: "https://humaans.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "humaans"
+
+  - name: "Hume AI"
+    website: "https://hume.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "humeai"
+
+  - name: "IBM"
+    website: "https://www.ibm.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ibm"
+
+  - name: "ImageKit"
+    website: "https://imagekit.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "imagekit"
+
+  - name: "Imgix"
+    website: "https://www.imgix.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "imgix"
+
+  - name: "Imbue"
+    website: "https://imbue.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "imbue"
+
+  - name: "Infield"
+    website: "https://infield.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "infield"
+
+  - name: "Inflection AI"
+    website: "https://inflection.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "inflectionai"
+
+  - name: "Inspect"
+    website: "https://inspect.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "inspect"
+
+  - name: "Instacart"
+    website: "https://www.instacart.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "instacart"
+
+  - name: "Intuit"
+    website: "https://www.intuit.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "intuit"
+
+  - name: "Jasper AI"
+    website: "https://www.jasper.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "jasperai"
+
+  - name: "Jeli"
+    website: "https://jeli.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "jeli"
+
+  - name: "Jina AI"
+    website: "https://jina.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "jinaai"
+
+  - name: "Jitsu"
+    website: "https://jitsu.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "jitsu"
+
+  - name: "Khan Academy"
+    website: "https://www.khanacademy.org/careers"
+    ats_type: "greenhouse"
+    ats_slug: "khanacademy"
+
+  - name: "Klarity"
+    website: "https://klarity.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "klarity"
+
+  - name: "Koda"
+    website: "https://koda.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "koda"
+
+  - name: "Kumo"
+    website: "https://kumo.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "kumo"
+
+  - name: "Lacework"
+    website: "https://www.lacework.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "lacework"
+
+  - name: "Lago"
+    website: "https://lago.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "lago"
+
+  - name: "Lambda"
+    website: "https://lambdalabs.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "lambda"
+
+  - name: "Langchain"
+    website: "https://langchain.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "langchain"
+
+  - name: "Lattice"
+    website: "https://lattice.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "lattice"
+
+  - name: "Lever"
+    website: "https://lever.co/careers"
+    ats_type: "greenhouse"
+    ats_slug: "lever"
+
+  - name: "Lightdash"
+    website: "https://lightdash.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "lightdash"
+
+  - name: "Linear"
+    website: "https://linear.app/careers"
+    ats_type: "greenhouse"
+    ats_slug: "linear"
+
+  - name: "Linode"
+    website: "https://www.linode.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "linode"
+
+  - name: "LlamaIndex"
+    website: "https://www.llamaindex.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "llamaindex"
+
+  - name: "Loom"
+    website: "https://loom.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "loom"
+
+  - name: "Luma"
+    website: "https://lumalabs.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "luma"
+
+  - name: "Magic"
+    website: "https://magic.dev/careers"
+    ats_type: "greenhouse"
+    ats_slug: "magic"
+
+  - name: "MagicBell"
+    website: "https://magicbell.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "magicbell"
+
+  - name: "Mem"
+    website: "https://mem.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "mem"
+
+  - name: "Mendable"
+    website: "https://mendable.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "mendable"
+
+  - name: "Mercury"
+    website: "https://mercury.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "mercury"
+
+  - name: "Meter"
+    website: "https://meter.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "meter"
+
+  - name: "Microsoft"
+    website: "https://careers.microsoft.com"
+    ats_type: "greenhouse"
+    ats_slug: "microsoft"
+
+  - name: "Midjourney"
+    website: "https://www.midjourney.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "midjourney"
+
+  - name: "Milvus"
+    website: "https://milvus.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "milvus"
+
+  - name: "MindsDB"
+    website: "https://mindsdb.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "mindsdb"
+
+  - name: "Mintlify"
+    website: "https://mintlify.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "mintlify"
+
+  - name: "Moment"
+    website: "https://moment.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "moment"
+
+  - name: "Monarch"
+    website: "https://monarch.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "monarch"
+
+  - name: "MongoDB"
+    website: "https://www.mongodb.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "mongodb"
+
+  - name: "MotherDuck"
+    website: "https://motherduck.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "motherduck"
+
+  - name: "Nango"
+    website: "https://nango.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "nango"
+
+  - name: "Nebula"
+    website: "https://nebula.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "nebula"
+
+  - name: "Neon"
+    website: "https://neon.tech/careers"
+    ats_type: "greenhouse"
+    ats_slug: "neon"
+
+  - name: "Netflix"
+    website: "https://jobs.netflix.com/"
+    ats_type: "greenhouse"
+    ats_slug: "netflix"
+
+  - name: "Netlify"
+    website: "https://www.netlify.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "netlify"
+
+  - name: "NexHealth"
+    website: "https://nexhealth.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "nexhealth"
+
+  - name: "Nillion"
+    website: "https://nillion.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "nillion"
+
+  - name: "NocoDB"
+    website: "https://nocodb.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "nocodb"
+
+  - name: "Notion"
+    website: "https://www.notion.so/careers"
+    ats_type: "greenhouse"
+    ats_slug: "notion"
+
+  - name: "Noya"
+    website: "https://noya.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "noya"
+
+  - name: "Nx"
+    website: "https://nx.dev/careers"
+    ats_type: "greenhouse"
+    ats_slug: "nx"
+
+  - name: "Oasis"
+    website: "https://oasis.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "oasis"
+
+  - name: "Obsidian"
+    website: "https://obsidian.md/careers"
+    ats_type: "greenhouse"
+    ats_slug: "obsidian"
+
+  - name: "Octopus"
+    website: "https://octopus.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "octopus"
+
+  - name: "Omni"
+    website: "https://omni.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "omni"
+
+  - name: "OpenAI"
+    website: "https://openai.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "openai"
+
+  - name: "OpenPhone"
+    website: "https://openphone.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "openphone"
+
+  - name: "Orbit"
+    website: "https://orbit.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "orbit"
+
+  - name: "Outschool"
+    website: "https://outschool.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "outschool"
+
+  - name: "OVHcloud"
+    website: "https://www.ovhcloud.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ovhcloud"
+
+  - name: "Oyster HR"
+    website: "https://oysterhr.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "oysterhr"
+
+  - name: "Paddle"
+    website: "https://paddle.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "paddle"
+
+  - name: "Pangea"
+    website: "https://pangea.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pangea"
+
+  - name: "Parcel"
+    website: "https://parcel.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "parcel"
+
+  - name: "ParcelLab"
+    website: "https://parcellab.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "parcellab"
+
+  - name: "Pareto"
+    website: "https://pareto.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pareto"
+
+  - name: "Pathrise"
+    website: "https://pathrise.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pathrise"
+
+  - name: "Patreon"
+    website: "https://www.patreon.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "patreon"
+
+  - name: "Pave"
+    website: "https://pave.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pave"
+
+  - name: "Pilot"
+    website: "https://pilot.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pilot"
+
+  - name: "Pinecone"
+    website: "https://www.pinecone.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pinecone"
+
+  - name: "Pipedream"
+    website: "https://pipedream.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pipedream"
+
+  - name: "Plaid"
+    website: "https://plaid.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "plaid"
+
+  - name: "Plain"
+    website: "https://plain.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "plain"
+
+  - name: "Playbook"
+    website: "https://playbook.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "playbook"
+
+  - name: "Pledge"
+    website: "https://pledge.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pledge"
+
+  - name: "Polar"
+    website: "https://polar.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "polar"
+
+  - name: "Posthog"
+    website: "https://posthog.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "posthog"
+
+  - name: "Postman"
+    website: "https://www.postman.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "postman"
+
+  - name: "Prefect"
+    website: "https://prefect.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "prefect"
+
+  - name: "Prelude"
+    website: "https://prelude.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "prelude"
+
+  - name: "Prisma"
+    website: "https://prisma.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "prisma"
+
+  - name: "Pulley"
+    website: "https://pulley.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "pulley"
+
+  - name: "Puzzle"
+    website: "https://puzzle.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "puzzle"
+
+  - name: "Qdrant"
+    website: "https://qdrant.tech/careers"
+    ats_type: "greenhouse"
+    ats_slug: "qdrant"
+
+  - name: "Quill"
+    website: "https://quill.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "quill"
+
+  - name: "Railway"
+    website: "https://railway.app/careers"
+    ats_type: "greenhouse"
+    ats_slug: "railway"
+
+  - name: "Ramp"
+    website: "https://ramp.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ramp"
+
+  - name: "Rapyd"
+    website: "https://rapyd.net/careers"
+    ats_type: "greenhouse"
+    ats_slug: "rapyd"
+
+  - name: "Raycast"
+    website: "https://raycast.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "raycast"
+
+  - name: "Reddit"
+    website: "https://www.redditinc.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "reddit"
+
+  - name: "Remote"
+    website: "https://remote.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "remote"
+
+  - name: "Render"
+    website: "https://render.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "render"
+
+  - name: "Replicate"
+    website: "https://replicate.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "replicate"
+
+  - name: "Replit"
+    website: "https://replit.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "replit"
+
+  - name: "Resend"
+    website: "https://resend.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "resend"
+
+  - name: "Retool"
+    website: "https://retool.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "retool"
+
+  - name: "Reverie"
+    website: "https://reverie.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "reverie"
+
+  - name: "Rippling"
+    website: "https://rippling.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "rippling"
+
+  - name: "Robinhood"
+    website: "https://robinhood.com/us/en/careers/"
+    ats_type: "greenhouse"
+    ats_slug: "robinhood"
+
+  - name: "Rocket"
+    website: "https://rocket.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "rocket"
+
+  - name: "Runway ML"
+    website: "https://runwayml.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "runwayml"
+
+  - name: "Saasify"
+    website: "https://saasify.sh/careers"
+    ats_type: "greenhouse"
+    ats_slug: "saasify"
+
+  - name: "Sanity"
+    website: "https://sanity.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "sanity"
+
+  - name: "Scaleway"
+    website: "https://www.scaleway.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "scaleway"
+
+  - name: "Scale AI"
+    website: "https://scale.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "scaleai"
+
+  - name: "Segment"
+    website: "https://segment.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "segment"
+
+  - name: "Sequel"
+    website: "https://sequel.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "sequel"
+
+  - name: "Shepherd"
+    website: "https://shepherd.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "shepherd"
+
+  - name: "Shippo"
+    website: "https://shippo.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "shippo"
+
+  - name: "Sidebar"
+    website: "https://sidebar.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "sidebar"
+
+  - name: "Signadot"
+    website: "https://signadot.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "signadot"
+
+  - name: "SimpleLogin"
+    website: "https://simplelogin.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "simplelogin"
+
+  - name: "Slope"
+    website: "https://slopepay.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "slope"
+
+  - name: "Snyk"
+    website: "https://snyk.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "snyk"
+
+  - name: "Socratic"
+    website: "https://socratic.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "socratic"
+
+  - name: "Sourcegraph"
+    website: "https://sourcegraph.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "sourcegraph"
+
+  - name: "Spline"
+    website: "https://spline.design/careers"
+    ats_type: "greenhouse"
+    ats_slug: "spline"
+
+  - name: "Spotify"
+    website: "https://www.spotifyjobs.com/"
+    ats_type: "greenhouse"
+    ats_slug: "spotify"
+
+  - name: "StackPath"
+    website: "https://www.stackpath.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "stackpath"
+
+  - name: "Stability AI"
+    website: "https://stability.ai/careers"
+    ats_type: "greenhouse"
+    ats_slug: "stabilityai"
+
+  - name: "Stark"
+    website: "https://stark.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "stark"
+
+  - name: "Stedi"
+    website: "https://stedi.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "stedi"
+
+  - name: "Stripe"
+    website: "https://stripe.com/jobs"
+    ats_type: "greenhouse"
+    ats_slug: "stripe"
+
+  - name: "Substack"
+    website: "https://substack.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "substack"
+
+  - name: "Superblocks"
+    website: "https://superblocks.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "superblocks"
+
+  - name: "Superhuman"
+    website: "https://superhuman.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "superhuman"
+
+  - name: "Superside"
+    website: "https://superside.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "superside"
+
+  - name: "Supabase"
+    website: "https://supabase.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "supabase"
+
+  - name: "Synthesia"
+    website: "https://www.synthesia.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "synthesia"
+
+  - name: "Sydecar"
+    website: "https://sydecar.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "sydecar"
+
+  - name: "Tally"
+    website: "https://tally.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tally"
+
+  - name: "Tandem"
+    website: "https://tandem.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tandem"
+
+  - name: "Teleport"
+    website: "https://goteleport.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "teleport"
+
+  - name: "Temporal"
+    website: "https://temporal.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "temporal"
+
+  - name: "Tessian"
+    website: "https://tessian.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tessian"
+
+  - name: "Texts"
+    website: "https://texts.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "texts"
+
+  - name: "Tines"
+    website: "https://tines.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tines"
+
+  - name: "Tinybird"
+    website: "https://tinybird.co/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tinybird"
+
+  - name: "Tome"
+    website: "https://tome.app/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tome"
+
+  - name: "Tomorrow"
+    website: "https://tomorrow.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tomorrow"
+
+  - name: "Tonic"
+    website: "https://tonic.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tonic"
+
+  - name: "Tooljet"
+    website: "https://tooljet.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tooljet"
+
+  - name: "Tower"
+    website: "https://tower.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tower"
+
+  - name: "Transform"
+    website: "https://transform.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "transform"
+
+  - name: "Tremor"
+    website: "https://tremor.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tremor"
+
+  - name: "Tribe"
+    website: "https://tribe.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "tribe"
+
+  - name: "Trunk"
+    website: "https://trunk.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "trunk"
+
+  - name: "Turborepo"
+    website: "https://turbo.build/careers"
+    ats_type: "greenhouse"
+    ats_slug: "turborepo"
+
+  - name: "Twilio"
+    website: "https://www.twilio.com/company/jobs"
+    ats_type: "greenhouse"
+    ats_slug: "twilio"
+
+  - name: "Typeform"
+    website: "https://typeform.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "typeform"
+
+  - name: "TypingDNA"
+    website: "https://typingdna.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "typingdna"
+
+  - name: "Uber"
+    website: "https://www.uber.com/us/en/careers/"
+    ats_type: "greenhouse"
+    ats_slug: "uber"
+
+  - name: "Uizard"
+    website: "https://uizard.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "uizard"
+
+  - name: "Unblocked"
+    website: "https://unblocked.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "unblocked"
+
+  - name: "Unfold"
+    website: "https://unfold.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "unfold"
+
+  - name: "Unkey"
+    website: "https://unkey.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "unkey"
+
+  - name: "Upcloud"
+    website: "https://upcloud.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "upcloud"
+
+  - name: "Upstash"
+    website: "https://upstash.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "upstash"
+
+  - name: "Upload.io"
+    website: "https://upload.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "uploadio"
+
+  - name: "Uploadcare"
+    website: "https://uploadcare.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "uploadcare"
+
+  - name: "Vanta"
+    website: "https://www.vanta.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "vanta"
+
+  - name: "Vercel"
+    website: "https://vercel.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "vercel"
+
+  - name: "Vest"
+    website: "https://vest.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "vest"
+
+  - name: "Viam"
+    website: "https://viam.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "viam"
+
+  - name: "Vibe"
+    website: "https://vibe.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "vibe"
+
+  - name: "Vultr"
+    website: "https://www.vultr.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "vultr"
+
+  - name: "Warp"
+    website: "https://warp.dev/careers"
+    ats_type: "greenhouse"
+    ats_slug: "warp"
+
+  - name: "Wasabi"
+    website: "https://wasabi.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "wasabi"
+
+  - name: "Weaviate"
+    website: "https://weaviate.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "weaviate"
+
+  - name: "Webflow"
+    website: "https://webflow.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "webflow"
+
+  - name: "Webiny"
+    website: "https://webiny.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "webiny"
+
+  - name: "Wing"
+    website: "https://wing.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "wing"
+
+  - name: "Winston"
+    website: "https://winston.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "winston"
+
+  - name: "Wise"
+    website: "https://wise.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "wise"
+
+  - name: "Wombo"
+    website: "https://wombo.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "wombo"
+
+  - name: "WorkOS"
+    website: "https://workos.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "workos"
+
+  - name: "Writer"
+    website: "https://writer.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "writer"
+
+  - name: "Xata"
+    website: "https://xata.io/careers"
+    ats_type: "greenhouse"
+    ats_slug: "xata"
+
+  - name: "Y Combinator"
+    website: "https://ycombinator.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ycombinator"
+
+  - name: "Zap"
+    website: "https://zap.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zap"
+
+  - name: "Zapier"
+    website: "https://zapier.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zapier"
+
+  - name: "Zed"
+    website: "https://zed.dev/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zed"
+
+  - name: "Zendesk"
+    website: "https://zendesk.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zendesk"
+
+  - name: "Zenefits"
+    website: "https://zenefits.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zenefits"
+
+  - name: "Zero"
+    website: "https://zero.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zero"
+
+  - name: "ZipRecruiter"
+    website: "https://www.ziprecruiter.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "ziprecruiter"
+
+  - name: "Zora"
+    website: "https://zora.com/careers"
+    ats_type: "greenhouse"
+    ats_slug: "zora"
+
+### Lever ATS Companies (Public Job Boards)
+  - name: "Airtable"
+    website: "https://airtable.com/careers"
+    ats_type: "lever"
+    ats_slug: "airtable"
+
+  - name: "Bookface"
+    website: "https://bookface.com/careers"
+    ats_type: "lever"
+    ats_slug: "bookface"
+
+  - name: "Clubhouse"
+    website: "https://www.clubhouse.com/careers"
+    ats_type: "lever"
+    ats_slug: "clubhouse"
+
+  - name: "Cognition AI"
+    website: "https://www.cognition.ai/careers"
+    ats_type: "lever"
+    ats_slug: "cognitionai"
+
+  - name: "Flexport"
+    website: "https://www.flexport.com/careers"
+    ats_type: "lever"
+    ats_slug: "flexport"
+
+  - name: "Gretel AI"
+    website: "https://gretel.ai/careers"
+    ats_type: "lever"
+    ats_slug: "gretelai"
+
+  - name: "Lambda"
+    website: "https://lambdalabs.com/careers"
+    ats_type: "lever"
+    ats_slug: "lambda"
+
+  - name: "Netflix"
+    website: "https://jobs.netflix.com/"
+    ats_type: "lever"
+    ats_slug: "netflix"
+
+  - name: "Patreon"
+    website: "https://www.patreon.com/careers"
+    ats_type: "lever"
+    ats_slug: "patreon"
+
+  - name: "Replit"
+    website: "https://replit.com/careers"
+    ats_type: "lever"
+    ats_slug: "replit"
+
+  - name: "Resend"
+    website: "https://resend.com/careers"
+    ats_type: "lever"
+    ats_slug: "resend"
+
+  - name: "Rippling"
+    website: "https://www.rippling.com/careers"
+    ats_type: "lever"
+    ats_slug: "rippling"
+
+  - name: "Robinhood"
+    website: "https://robinhood.com/us/en/careers/"
+    ats_type: "lever"
+    ats_slug: "robinhood"
+
+  - name: "Spotify"
+    website: "https://www.spotifyjobs.com/"
+    ats_type: "lever"
+    ats_slug: "spotify"
+
+  - name: "Stripe"
+    website: "https://stripe.com/jobs"
+    ats_type: "lever"
+    ats_slug: "stripe"
+
+  - name: "Sydecar"
+    website: "https://sydecar.com/careers"
+    ats_type: "lever"
+    ats_slug: "sydecar"
+
+  - name: "Together AI"
+    website: "https://www.together.ai/careers"
+    ats_type: "lever"
+    ats_slug: "togetherai"
+
+  - name: "Webflow"
+    website: "https://webflow.com/careers"
+    ats_type: "lever"
+    ats_slug: "webflow"
+
+  - name: "ZipRecruiter"
+    website: "https://www.ziprecruiter.com/careers"
+    ats_type: "lever"
+    ats_slug: "ziprecruiter"
+
+defaults:
+  country: "USA"
+  job_level: "entry_level"
+  rate_limit: "Add 1s delay between requests"
+  legal_note: "Data is from public job boards. Some ATS slugs may need verification for recent YC startups."
