@@ -1,0 +1,77 @@
+score,company,title,location,posted_at,overlap,url
+15.47,HelloFresh,"Intern, Executive Analytics & Tools","New York, New York, United States",2025-08-13T14:29:55,"python, javascript, react",https://careers.hellofresh.com/global/en/job/7060357?gh_jid=7060357
+12.3,Dropbox,Full Stack Product Software Engineer,Remote - Poland,2025-08-08T13:47:09,"python, javascript, react",https://jobs.dropbox.com/listing/6449729?gh_jid=6449729
+11.73,HelloFresh,"Senior Data Scientist, MarTech Alliance (f/m/x) ","Berlin, Berlin, Germany",2025-08-13T02:25:18,"python, sql, docker, pandas, git, sklearn",https://careers.hellofresh.com/global/en/job/6841136?gh_jid=6841136
+10.9,Dropbox,Senior Backend Product Software Engineer,Remote - Poland,2025-08-08T13:47:09,"python, javascript, sql, react",https://jobs.dropbox.com/listing/6330333?gh_jid=6330333
+10.9,Dropbox,Senior Full Stack Product Software Engineer,Remote - Poland,2025-08-08T13:47:09,"python, javascript, sql, react",https://jobs.dropbox.com/listing/6449719?gh_jid=6449719
+9.8,Dropbox,"Full Stack Software Engineer, Dropbox Sign",Remote - Poland,2025-08-08T13:47:09,"python, sql",https://jobs.dropbox.com/listing/6535000?gh_jid=6535000
+8.5,HelloFresh,Fleet Performance Analysis Internship,"Amsterdam, North Holland, Netherlands",2025-08-14T06:54:40,"python, sql",https://careers.hellofresh.com/global/en/job/7160345?gh_jid=7160345
+7.93,HelloFresh,"React Native Engineer, Consumer Services Alliance (m/f/x)","Wrocław, Lower Silesian Voivodeship, Poland",2025-08-13T02:25:18,"javascript, react",https://careers.hellofresh.com/global/en/job/6944988?gh_jid=6944988
+7.2,Dropbox,"Security Engineer, Vulnerability Management ","Remote - Mexico City, Mexico",2025-08-08T13:47:09,python,https://jobs.dropbox.com/listing/7087104?gh_jid=7087104
+7.13,Discord,"Senior Software Engineer, Data Platform",San Francisco Bay Area,2025-07-16T11:16:51,"python, sql, docker, kubernetes",https://job-boards.greenhouse.io/discord/jobs/8005871002
+6.97,Dropbox,"Backend Product Software Engineer, Reclaim",Remote - US: Select locations,2025-08-13T09:00:42,sql,https://jobs.dropbox.com/listing/7140761?gh_jid=7140761
+6.97,Dropbox,"Backend Product Software Engineer, Reclaim",Remote - Canada: Select locations,2025-08-13T09:00:43,sql,https://jobs.dropbox.com/listing/7140764?gh_jid=7140764
+6.13,Reddit,"Staff Software Engineer, Ads Creative",Remote - United States,2025-08-12T17:23:32,"python, javascript",https://job-boards.greenhouse.io/reddit/jobs/6878929
+6.0,HelloFresh,Junior Recipe Developer,"Sydney, New South Wales, Australia",2025-08-17T17:20:50,,https://careers.hellofresh.com/global/en/job/7171061?gh_jid=7171061
+5.93,Reddit,Senior Analytics Engineer - Trust & Safety,Remote - United States,2025-08-12T17:38:57,"python, sql",https://job-boards.greenhouse.io/reddit/jobs/7159210
+5.93,Reddit,"Senior Data Scientist, Consumer",Remote - United States,2025-08-12T17:15:16,"python, sql",https://job-boards.greenhouse.io/reddit/jobs/5936181
+5.93,Reddit,"Staff Data Scientist, Consumer",Remote - United States,2025-08-12T17:21:07,"python, sql",https://job-boards.greenhouse.io/reddit/jobs/6745284
+5.9,HelloFresh,Junior Engineer - Nights,"Derby, England, United Kingdom",2025-08-14T07:30:45,,https://careers.hellofresh.com/global/en/job/7154504?gh_jid=7154504
+5.9,HelloFresh,Junior IT Engineer,"Brisbane, Queensland, Australia",2025-08-15T01:09:19,,https://careers.hellofresh.com/global/en/job/7142197?gh_jid=7142197
+5.87,HelloFresh,Junior Maintenance Engineer,"Derby, England, United Kingdom",2025-08-14T04:10:07,,https://careers.hellofresh.com/global/en/job/7154502?gh_jid=7154502
+5.83,HelloFresh,Junior Operational Excellence Engineer,"Derby, England, United Kingdom",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6573101?gh_jid=6573101
+5.8,Dropbox,"Staff Data Engineer, Revenue & Growth Data",Remote - Poland,2025-08-08T13:47:09,"python, sql",https://jobs.dropbox.com/listing/6563316?gh_jid=6563316
+5.8,Dropbox,"Senior Full Stack Software Engineer, Dropbox Sign",Remote - Poland,2025-08-08T13:47:09,"python, sql",https://jobs.dropbox.com/listing/6534984?gh_jid=6534984
+5.63,Dropbox,"Staff Infrastructure Software Engineer, Dropbox Dash",Remote - Denmark,2025-08-12T11:57:42,"python, react",https://jobs.dropbox.com/listing/7156640?gh_jid=7156640
+5.6,Dropbox,"Senior Infrastructure Software Engineer, Dropbox Dash",Remote - Denmark,2025-08-11T12:09:54,"python, react",https://jobs.dropbox.com/listing/7156641?gh_jid=7156641
+5.53,Dropbox,"Staff Infrastructure Software Engineer, Connector Platform",Remote - Poland,2025-08-09T10:33:54,"python, react",https://jobs.dropbox.com/listing/7121553?gh_jid=7121553
+5.5,Khan Academy,"Sr. Fullstack Engineer I, Districts Platform (International) (24 months fixed-term)","Mountain View, CA / Remote friendly (Continental US + Hawaii Only)",2025-08-14T11:18:34,"javascript, react",https://job-boards.greenhouse.io/khanacademy/jobs/7077660
+5.23,Discord,Senior Threat Operations Specialist,"San Francisco, CA",2025-07-22T13:50:19,"python, sql",https://job-boards.greenhouse.io/discord/jobs/8073359002
+3.73,Discord,Senior Threat Operations Specialist,Australia,2025-07-22T13:51:32,"python, sql",https://job-boards.greenhouse.io/discord/jobs/8073357002
+3.63,Spotify,Associate Machine Learning Engineer,"New York, NY",2025-07-22T17:14:34.797000,,https://jobs.lever.co/spotify/21c24edb-f625-4895-ad23-5a6320d54813
+3.63,Spotify,"Machine Learning Engineer, Personalization","New York, NY",2025-07-22T17:19:21.208000,,https://jobs.lever.co/spotify/98128e96-330e-47d9-88bb-55a96b126f42
+3.33,Reddit,"Senior Machine Learning Engineer, LS Embeddings ",Remote - United States,2025-08-12T17:31:36,python,https://job-boards.greenhouse.io/reddit/jobs/7050948
+3.33,Reddit,Senior Machine Learning Engineer - Notifications Relevance ,Remote - United States,2025-08-12T17:30:56,python,https://job-boards.greenhouse.io/reddit/jobs/7031985
+3.2,Dropbox,"Senior Infrastructure Software Engineer, Build Toolchains",Remote - US: All locations,2025-08-08T13:47:09,python,https://jobs.dropbox.com/listing/6819195?gh_jid=6819195
+3.2,Dropbox,"Senior Infrastructure Software Engineer, Build Toolchains",Remote - Canada: Select locations,2025-08-08T13:47:09,python,https://jobs.dropbox.com/listing/6819199?gh_jid=6819199
+2.97,Dropbox,"Senior Backend Product Software Engineer, Reclaim",Remote - Canada: Select locations,2025-08-13T09:01:14,sql,https://jobs.dropbox.com/listing/7140778?gh_jid=7140778
+2.97,Dropbox,"Senior Backend Product Software Engineer, Reclaim",Remote - US: Select locations,2025-08-13T09:03:13,sql,https://jobs.dropbox.com/listing/7140775?gh_jid=7140775
+2.9,HelloFresh,"Refrigeration Tech, Lake Zurich, IL","Lake Zurich, Illinois, United States",2025-08-14T13:19:55,,https://careers.hellofresh.com/global/en/job/7131817?gh_jid=7131817
+2.9,HelloFresh,Safety Coordinator ,"Aurora, IL, United States",2025-08-14T14:47:38,,https://careers.hellofresh.com/global/en/job/7170718?gh_jid=7170718
+2.83,HelloFresh,AGF Keurmeester,"Bleiswijk, South Holland, Netherlands",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7073274?gh_jid=7073274
+2.83,HelloFresh,"Area Manager I, Shipping","Goodyear, AZ, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7104029?gh_jid=7104029
+2.83,HelloFresh,"Area Manager, Return to Inventory","Phoenix, AZ, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6674175?gh_jid=6674175
+2.83,HelloFresh,Automation Engineer - Nights,"Derby, England, United Kingdom",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6484478?gh_jid=6484478
+2.83,HelloFresh,"Category Manager, HelloFresh Market","Boulder, Colorado, United States; Chicago, Illinois, United States; New York, NY, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7133946?gh_jid=7133946
+2.83,HelloFresh,Digital Operations Assistant,"Sydney, New South Wales, Australia",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7109825?gh_jid=7109825
+2.83,HelloFresh,Jr. Recipe Editor (Swedish speaking),"København, Capital RegionDenmark, Denmark",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7115383?gh_jid=7115383
+2.83,HelloFresh,"People Systems Functional Manager (Workday), Global Operations Tech Alliance (m/f/x)","Berlin, Berlin, Germany",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6747967?gh_jid=6747967
+2.83,HelloFresh,Refrigeration Technician ,"Newark, NJ, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6925637?gh_jid=6925637
+2.83,HelloFresh,Reliability Engineer - Nights,"Derby, England, United Kingdom",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6787890?gh_jid=6787890
+2.83,HelloFresh,Safety Coordinator,"Phoenix, AZ, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/6983860?gh_jid=6983860
+2.83,HelloFresh,Safety Coordinator,"Goodyear, AZ, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7060265?gh_jid=7060265
+2.83,HelloFresh,Safety Coordinator ,"Burr Ridge, IL, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7155408?gh_jid=7155408
+1.53,Khan Academy,Join our Content talent community! ,Remote,2025-05-20T14:41:06,,https://job-boards.greenhouse.io/khanacademy/jobs/6258532
+1.53,HelloFresh,Senior Finance Analyst,"London, England, United Kingdom",2025-08-16T00:09:17,sql,https://careers.hellofresh.com/global/en/job/7131879?gh_jid=7131879
+1.47,Spotify,"Analyst, Advertising Finance","New York, NY",2025-07-02T18:56:37.056000,,https://jobs.lever.co/spotify/173b8ab0-6b20-4154-b0af-6d18a7f0302a
+1.07,Discord,"Senior Data Scientist, Analytics - Ads Product and GTM",San Francisco Bay Area,2025-08-01T12:09:09,sql,https://job-boards.greenhouse.io/discord/jobs/8096577002
+0.37,Reddit,"Senior Staff Machine Learning Engineer, Ads Measurement",Remote - United States,2025-08-13T12:39:04,,https://job-boards.greenhouse.io/reddit/jobs/6499299
+0.37,Reddit,"Senior Staff Machine Learning Engineer, Ads Measurement ",Remote - United States,2025-08-13T12:39:04,,https://job-boards.greenhouse.io/reddit/jobs/6874361
+0.33,Reddit,"Senior Machine Learning Engineer, Dev Platform Data and Discovery",Remote - United States,2025-08-12T17:22:55,,https://job-boards.greenhouse.io/reddit/jobs/6851603
+0.33,Reddit,"Senior Staff Machine Learning Engineer, Ads Targeting",Remote - United States,2025-08-12T17:21:36,,https://job-boards.greenhouse.io/reddit/jobs/6778794
+0.33,Reddit,"Staff Machine Learning Engineer, Ads Measurement ","Remote - Ontario, Canada",2025-08-12T17:18:47,,https://job-boards.greenhouse.io/reddit/jobs/6918152
+0.33,Reddit,"Staff Machine Learning Engineer, Ads Measurement ",Remote - United States,2025-08-12T17:18:47,,https://job-boards.greenhouse.io/reddit/jobs/6838679
+0.2,Dropbox,Senior iOS Software Engineer,Remote - Canada: Select locations,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/6936179?gh_jid=6936179
+0.2,Dropbox,Senior iOS Software Engineer,Remote - US: Select locations,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/6936176?gh_jid=6936176
+0.2,Dropbox,"Principal Software Engineer, Dash",Remote - Poland,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/7121154?gh_jid=7121154
+0.2,Dropbox,Senior Android Software Engineer,Remote - US: Select locations,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/6936162?gh_jid=6936162
+0.2,Dropbox,Senior Android Software Engineer,Remote - Canada: Select locations,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/6936165?gh_jid=6936165
+0.2,Dropbox,"Senior Backend Product Software Engineer, Bridge FSS & Dash",Remote - US: Select locations,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/6936183?gh_jid=6936183
+0.2,Dropbox,"Senior Backend Product Software Engineer, Bridge FSS & Dash",Remote - Canada: Select locations,2025-08-08T13:47:09,,https://jobs.dropbox.com/listing/6936186?gh_jid=6936186
+-1.17,HelloFresh,"Senior People Workday Analyst, (m,f,x)","Berlin, Berlin, Germany",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7111053?gh_jid=7111053
+-1.17,HelloFresh,Staff Product Manager [TAM] (m/f/x),"Berlin, Berlin, Germany",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7158752?gh_jid=7158752
+-1.17,HelloFresh,Warehouse Lead,"Ft. Lauderdale, FL, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7140139?gh_jid=7140139
+-1.17,HelloFresh,Warehouse Lead,"Portland, OR, United States",2025-08-13T02:25:18,,https://careers.hellofresh.com/global/en/job/7096512?gh_jid=7096512
+-1.37,Duolingo,Senior iOS Software Engineer,"New York, NY",2025-08-06T09:02:42,,https://careers.duolingo.com/jobs/6876719002?gh_jid=6876719002
+-1.37,Duolingo,Senior iOS Software Engineer,"Pittsburgh, PA",2025-08-06T09:02:25,,https://careers.duolingo.com/jobs/6876635002?gh_jid=6876635002
+-4.0,Khan Academy,Chief of Staff,Delhi NCR,2025-05-19T23:46:01,,https://job-boards.greenhouse.io/khanacademy/jobs/6899303
